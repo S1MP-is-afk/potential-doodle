@@ -55,5 +55,4 @@ return {
         "Are you made of copper and tellurium? Because you’re Cu-Te", -- 54
         "Are you a magician? Because whenever I look at you, everyone else disappears", -- 55
         "Do you have any raisins? No? How about a date then?", -- 56
-
-};
+}
