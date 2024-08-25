@@ -39,14 +39,20 @@ return {
 	"Are you a fridge, because i wanna store all my meat inside u", -- 38
 	"If you were a vegetable, you’d be a cutecumber", -- 39
 	"I must be a snowflake, because I’ve fallen for you", -- 40
-	"", -- 41
-	"", -- 42
-	"", -- 43
-	"", -- 44
-	"", -- 45
-	"", -- 46
-	"", -- 47
-	"", -- 48
-	"", -- 49
-	"", -- 50
-}
+        "If kisses were snowflakes, I’d send you a blizzard", -- 41
+        "Are you a parking ticket? Because you’ve got ‘FINE’ written all over you", -- 42
+        "If you were a fruit, you’d be a ‘fine-apple’", -- 43
+        "Is your name Google? Because you have everything I’ve been searching for", -- 44
+        "Are you a time traveler? Because I see you in my future", -- 45
+        "Do you have a map? Because I keep getting lost in your eyes", -- 46
+        "Do you have a Band-Aid? Because I just scraped my knee falling for you", -- 47
+        "Is it ok if I follow you home? Because my parents always told me to follow my dreams", -- 48
+        "Do you have a pencil? Because I want to erase your past and write our future", -- 49
+        "Are you Wi-Fi? Because I’m feeling a connection", -- 50
+        "Can I borrow a kiss? I promise I’ll give it back", -- 51
+        "Do you have a quarter? Because I want to call my mom and tell her I met ‘the one’", -- 52
+        "Is your dad a baker? Because you’re a cutie pie", -- 53
+        "Are you made of copper and tellurium? Because you’re Cu-Te", -- 54
+        "Are you a magician? Because whenever I look at you, everyone else disappears", -- 55
+        "Do you have any raisins? No? How about a date then?", -- 56
+
